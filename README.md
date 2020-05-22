@@ -5,6 +5,5 @@ Simple books app for testing Strapi.
 <img src="https://i.imgur.com/d70sBbw.png">
 <br />
 <br />
-<br />
 <img src="https://i.imgur.com/uV1uRSk.png">
 <br />

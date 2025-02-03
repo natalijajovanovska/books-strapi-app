@@ -22,7 +22,7 @@ const quotesData = await axios({
 });
 
 const fetchedBooks = booksData.data;
-const fetchedQuotes = quotesData.data;
+const fetchedQuotes = quotesData.data; 
 
 this.setState({fetchedBooks, fetchedQuotes});
   }
